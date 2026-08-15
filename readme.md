@@ -1,6 +1,6 @@
 # C# Essentials Refresher
 
-A compact project to brush up on core **C# language fundamentals**—perfect for revisiting syntax, concepts, and best practices.
+A compact project to brush up on core **C# language fundamentals**, perfect for revisiting syntax, concepts, and best practices.
 
 ## 📌 Overview
 
