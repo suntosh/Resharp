@@ -84,7 +84,3 @@ Pull requests are welcome! Feel free to add examples or improve explanations.
 ## 📄 License
 
 This project is licensed under the MIT License.
-
----
-
-If you want, I can tailor it for a **portfolio project**, **teaching repo**, or **interview prep format**.
