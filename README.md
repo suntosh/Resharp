@@ -9,8 +9,8 @@ interviews.
 ## 📌 Overview
 
 This is not a tutorial series. Each module is a single self-contained `.cs` file that
-opens with a dense reference header — complexity tables, thread-safety matrices, type
-size and range charts, gotcha lists — followed by runnable demonstrations of every
+opens with a dense reference header - complexity tables, thread-safety matrices, type
+size and range charts, gotcha lists - followed by runnable demonstrations of every
 point the header makes. Read the header for the summary, run the module to watch the
 behaviour.
 
