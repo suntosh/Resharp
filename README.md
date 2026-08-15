@@ -75,10 +75,10 @@ No NuGet packages. The whole thing builds against the BCL.
 
 ```bash
 # Clone the repo
-git clone https://github.com/suntosh/CSharpRefresher.git
+git clone https://github.com/suntosh/Resharp.git
 
 # Navigate into the project
-cd CSharpRefresher/Refresher
+cd Resharp/Refresher
 
 # Build and run
 dotnet run --project Refresher
