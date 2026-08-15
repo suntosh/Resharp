@@ -1,10 +1,11 @@
 # Resharp - The C# Essentials Refresher
-<p align="center">
+
+![C#](https://img.shields.io/badge/C%23-12-239120?logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![Modules](https://img.shields.io/badge/modules-17-brightgreen) ![Lines](https://img.shields.io/badge/annotated%20lines-8.5k-brightgreen) ![Dependencies](https://img.shields.io/badge/dependencies-none-success) ![Nullable](https://img.shields.io/badge/nullable-enabled-informational) ![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
+<p align="center"
   <img src="assets/resharp-banner.png"
        alt="Resharp — C# Essentials Refresher"
        width="100%">
 </p>
-![C#](https://img.shields.io/badge/C%23-12-239120?logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![Modules](https://img.shields.io/badge/modules-17-brightgreen) ![Lines](https://img.shields.io/badge/annotated%20lines-8.5k-brightgreen) ![Dependencies](https://img.shields.io/badge/dependencies-none-success) ![Nullable](https://img.shields.io/badge/nullable-enabled-informational) ![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 
 A working reference for **C# language fundamentals and modern idioms** - 17 runnable
 modules, heavily annotated, built for revisiting syntax and preparing for technical
