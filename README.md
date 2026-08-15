@@ -1,16 +1,16 @@
-# C# Essentials Refresher
+# Resharp - The C# Essentials Refresher
 
 ![C#](https://img.shields.io/badge/C%23-12-239120?logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![Modules](https://img.shields.io/badge/modules-17-brightgreen) ![Lines](https://img.shields.io/badge/annotated%20lines-8.5k-brightgreen) ![Dependencies](https://img.shields.io/badge/dependencies-none-success) ![Nullable](https://img.shields.io/badge/nullable-enabled-informational) ![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 
-A working reference for **C# language fundamentals and modern idioms** — 17 runnable
+A working reference for **C# language fundamentals and modern idioms** - 17 runnable
 modules, heavily annotated, built for revisiting syntax and preparing for technical
 interviews.
 
 ## 📌 Overview
 
 This is not a tutorial series. Each module is a single self-contained `.cs` file that
-opens with a dense reference header — complexity tables, thread-safety matrices, type
-size and range charts, gotcha lists — followed by runnable demonstrations of every
+opens with a dense reference header - complexity tables, thread-safety matrices, type
+size and range charts, gotcha lists - followed by runnable demonstrations of every
 point the header makes. Read the header for the summary, run the module to watch the
 behaviour.
 
@@ -75,10 +75,10 @@ No NuGet packages. The whole thing builds against the BCL.
 
 ```bash
 # Clone the repo
-git clone https://github.com/suntosh/CSharpRefresher.git
+git clone https://github.com/suntosh/Resharp.git
 
 # Navigate into the project
-cd CSharpRefresher/Refresher
+cd Resharp/Refresher
 
 # Build and run
 dotnet run --project Refresher
@@ -161,6 +161,19 @@ Refresher/
 
     Assets/                   # supporting notes (indexing, architecture)
 ```
+## 🚧 Roadmap
+
+Modules in progress:
+
+* `LinqEssentials` — deferred vs. immediate execution, query vs. method syntax,
+  `IEnumerable` vs. `IQueryable` and the provider boundary, multiple-enumeration
+  traps, custom operators
+* `Generics` — type parameters and inference, all constraint kinds, covariance
+  and contravariance, open vs. closed types, static members per closed type
+
+LINQ and generics currently appear incidentally across `DataStructures`,
+`ExtensionMethods` and `AsyncAwait` as tools rather than as subjects. These two
+modules will cover them directly.
 
 ## 🎯 Goals
 
