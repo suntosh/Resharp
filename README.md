@@ -161,6 +161,19 @@ Refresher/
 
     Assets/                   # supporting notes (indexing, architecture)
 ```
+## 🚧 Roadmap
+
+Modules in progress:
+
+* `LinqEssentials` — deferred vs. immediate execution, query vs. method syntax,
+  `IEnumerable` vs. `IQueryable` and the provider boundary, multiple-enumeration
+  traps, custom operators
+* `Generics` — type parameters and inference, all constraint kinds, covariance
+  and contravariance, open vs. closed types, static members per closed type
+
+LINQ and generics currently appear incidentally across `DataStructures`,
+`ExtensionMethods` and `AsyncAwait` as tools rather than as subjects. These two
+modules will cover them directly.
 
 ## 🎯 Goals
 
