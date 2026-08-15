@@ -1,5 +1,6 @@
 # Resharp - The C# Essentials Refresher
-<p align="center"
+
+<p align="center">
   <img src="assets/resharp-banner.png"
        alt="Resharp — C# Essentials Refresher"
        width="100%">
